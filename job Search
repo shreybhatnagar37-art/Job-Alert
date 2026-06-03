@@ -9,7 +9,7 @@ from bs4 import BeautifulSoup
 
 # ── Config ──────────────────────────────────────────────
 SENDER_EMAIL    = "shreybhatnagar37@gmail.com"
-SENDER_PASSWORD = "dxfz youv orck dlxa"   # Gmail App Password
+SENDER_PASSWORD = "dxfz youv orck dlxa"
 TO_EMAIL        = "shreybhatnagar37@gmail.com"
 
 KEYWORDS = [
