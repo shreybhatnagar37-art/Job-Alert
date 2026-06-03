@@ -8,8 +8,8 @@ from email.mime.text import MIMEText
 from bs4 import BeautifulSoup
 
 # ── Config ──────────────────────────────────────────────
-SENDER_EMAIL    = "your_gmail@gmail.com"
-SENDER_PASSWORD = "your_app_password"   # Gmail App Password
+SENDER_EMAIL    = "shreybhatnagar37@gmail.com"
+SENDER_PASSWORD = "dxfz youv orck dlxa"   # Gmail App Password
 TO_EMAIL        = "shreybhatnagar37@gmail.com"
 
 KEYWORDS = [
